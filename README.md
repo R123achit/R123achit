@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+There!+👋+I'm+Rachit;Full+Stack+Developer+🚀;Node.js+%26+React+Specialist+⚛️;AI%2FML+Explorer+🤖;Building+The+Future+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Rachit;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -92,19 +92,19 @@ const rachit = {
 <div align="center">
 
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=R123achit&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=R123achit&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </a>
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=R123achit&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=FFFFFF&area=true&area_color=8B5CF6" alt="Contribution Graph" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=R123achit&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </a>
 
 <br/>
