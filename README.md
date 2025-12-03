@@ -59,9 +59,9 @@ I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachitkesarwani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rachitkesarwani&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=R123achit&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
 
 </div>
 
@@ -70,7 +70,7 @@ I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engi
 # 🏆 Achievements & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rachitkesarwani&theme=onestar&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=R123achit&theme=onestar&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engi
 # 🔥 Animated Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitkesarwani&theme=high-contrast&bg_color=000000&color=00FFFF&line=00FFEA&point=FFFFFF&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R123achit&theme=high-contrast&bg_color=000000&color=00FFFF&line=00FFEA&point=FFFFFF&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -86,7 +86,7 @@ I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engi
 # 👁 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rachitkesarwani&style=for-the-badge&color=00E5FF">
+  <img src="https://komarev.com/ghpvc/?username=R123achit&style=for-the-badge&color=00E5FF">
 </p>
 
 ---
@@ -103,8 +103,8 @@ I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engi
   <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://rachit.dev">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/R123achit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
