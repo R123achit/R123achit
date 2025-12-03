@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Rachit Kesarwani 👋
 
-<!--
-**R123achit/R123achit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer | Competitive Programmer | E-commerce Specialist
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable web applications with modern technologies and solving complex algorithmic problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- **VSTRA** - A full-featured e-commerce platform with modern UI/UX
+- **prepForge** - Helping developers conquer their coding interview fears
+- Competitive programming challenges on LeetCode
+
+### 💻 Tech Stack
+```javascript
+const skills = {
+  frontend: ['JavaScript', 'HTML5', 'CSS3', 'Modern Animations'],
+  backend: ['Node.js', 'Authentication Systems'],
+  tools: ['Git', 'GitHub', 'Vercel'],
+  focus: ['E-commerce Development', 'UI/UX Design', 'Web Performance']
+};
+```
+
+### 🌱 Currently Learning
+- Advanced CSS animations and effects
+- Full-stack e-commerce architecture
+- Competitive programming algorithms
+- Modern web design patterns
+
+### 📫 Let's Connect
+- 💼 Open to freelance opportunities
+- 🤝 Available for collaboration on web development projects
+- 📧 Feel free to reach out for web development work
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=radical)
+
+### 🎯 Focus Areas
+- E-commerce Platform Development
+- Authentication & Security
+- Modern Web Animations
+- Responsive Design
+- Problem Solving & Algorithms
+
+---
+⚡ Fun fact: I turn complex problems into elegant solutions, one commit at a time!
