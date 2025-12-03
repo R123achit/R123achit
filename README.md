@@ -142,19 +142,19 @@ status: Open for opportunities
 <div align="center">
 
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://streak-stats.demolab.com?user=R123achit&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=R123achit&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 </a>
 <a href="https://github.com/R123achit">
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=R123achit&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=R123achit&limit=4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9" alt="Top Contributions" />
 </a>
 
 <br/>
