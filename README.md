@@ -1,21 +1,117 @@
-# Update README.md
+<!-- ================= TOP NEON BANNER ================ -->
+<p align="center">
+  <img src="https://i.imgur.com/W4W2H8b.gif" width="100%" alt="Neon Tech Banner"/>
+</p>
 
-## GitHub Stats
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Rachit+Kesarwani;Full-Stack+Developer;Node.js+Engineer;AI+%26+ML+Learner;Turning+Ideas+Into+Reality+🚀" />
+</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R123achit&show_icons=true&theme=radical)
+---
 
-## Streak
+<!-- Floating Glowing Quote -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Making%20Digital%20Experiences%20Better-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R123achit&theme=radical)
+---
 
-## Top Languages
+## ⚡ About Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R123achit&langs_count=8&theme=radical)
+I'm **Rachit**, a passionate **Full Stack Developer** and **Node.js Backend Engineer** currently in my **final year of B.Tech IT**.
 
-## Snake Animation
+🔹 **3+ Years Development Experience**  
+🔹 **15+ Real Projects Completed**  
+🔹 **AI/ML Enthusiast**  
+🔹 **Focused on Backend, System Design & Scalable Architectures**  
+🔹 **Love building high-performance apps with modern technologies**
 
-![Snake Animation](https://github.com/R123achit/R123achit/blob/main/docs/coding.svg)
+---
 
-## Contribution
+# 🎨 Tech Stack & Skills
 
-This README file was updated on 2025-12-03 to reflect the correct username for stats, streak, and animations.
+## 🚀 Skills I Actively Use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,git,tailwind&theme=dark" />
+</p>
+
+---
+
+## 🎓 Skills I'm Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,redux,python,tensorflow,pytorch,opencv,jupyter&theme=dark" />
+</p>
+
+---
+
+## 🧠 Additional Professional Skills
+
+- REST API Architecture  
+- Responsive UI / Frontend Engineering  
+- DSA & problem-solving  
+- Agile + Scrum workflow  
+- Team collaboration & leadership  
+- Python for AI / ML Projects  
+
+---
+
+# 📊 GitHub Stats (Animated)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rachitkesarwani&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rachitkesarwani&theme=tokyonight&hide_border=true&border_radius=20" height="170"/>
+
+</div>
+
+---
+
+# 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rachitkesarwani&theme=onestar&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+# 🔥 Animated Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitkesarwani&theme=high-contrast&bg_color=000000&color=00FFFF&line=00FFEA&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+---
+
+# 👁 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rachitkesarwani&style=for-the-badge&color=00E5FF">
+</p>
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:rachitkesarwani@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rachit-kesarwani">
+  <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://rachit.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<!-- ================= BOTTOM BANNER ================ -->
+<p align="center">
+  <img src="https://i.imgur.com/EFw9Y2j.gif" width="100%" alt="Neon Footer Animation"/>
+</p>
