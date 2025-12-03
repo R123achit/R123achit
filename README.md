@@ -5,46 +5,96 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B+I'm+Rachit;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hey+There!+%F0%9F%91%8B+I'm+Rachit;Full+Stack+Developer+%F0%9F%9A%80;Node.js+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;AI%2FML+Explorer+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Neon Glow Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
-<!-- Animated Side Image -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" /> About Me
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-```typescript
-const rachit = {
-    role: "Full Stack Developer & AI/ML Enthusiast",
-    education: "Final Year B.Tech IT Student",
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-    experience: "3+ years",
-    technologies: {
-        frontEnd: ["React", "Next.js", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "MongoDB"],
-        aiMl: ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"],
-        tools: ["Git", "Postman", "Socket.io", "Redux"]
-    },
-    achievements: {
-        projects: "15+ Real World Projects",
-        repositories: "10 Public Repos",
-        techStack: "10+ Technologies Mastered",
-        leetCode: "135 Problems Solved",
-        codeChef: "1497 Rating (2★), 45 Problems"
-    },
-    currentFocus: "Building scalable web apps & exploring AI/ML",
-    funFact: "I debug with console.log and I'm proud of it! 😎"
-};
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" align="left">
+
+**Full Stack Developer & AI/ML Enthusiast**
+
+🎓 Final Year B.Tech IT Student  
+💼 3+ Years of Coding Experience  
+🌟 15+ Real-World Projects Delivered  
+🎯 Building Scalable Web Applications
+
+<br/>
+
+### 💻 Tech Arsenal
+
+**Frontend Magic:**  
+⚛️ React • Next.js • TailwindCSS
+
+**Backend Power:**  
+🚀 Node.js • Express • MongoDB
+
+**AI/ML Tools:**  
+🤖 TensorFlow • PyTorch • Scikit-learn • Keras
+
+**Dev Tools:**  
+🛠️ Git • Postman • Socket.io • Redux
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Quick Stats
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" align="left">
+
+```yaml
+name: Rachit Kesarwani
+role: Full Stack Developer
+location: India
+languages: [JavaScript, TypeScript, Python, HTML/CSS]
+experience: 3+ years
+focus: Web Development & AI/ML
+status: Open for opportunities
 ```
 
-<br clear="right"/>
+### 🏆 Achievements
+
+📊 **135** LeetCode Problems Solved  
+⭐ **2 Star** CodeChef (1497 Rating)  
+🎨 **10+** Technologies Mastered  
+📦 **10** Public Repositories  
+🚀 **15+** Projects Completed
+
+### 🎮 Fun Fact
+
+*"I debug with console.log and I'm proud of it! 😎"*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🔥 Current Focus
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+**Building scalable web applications** • **Exploring AI/ML technologies** • **Contributing to open source**
+
+</div>
 
 <!-- Gradient Separator -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
